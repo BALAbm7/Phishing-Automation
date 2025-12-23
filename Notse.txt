@@ -8,12 +8,12 @@ Real Outlook email files (.msg)
 
 It produces JSON reports that can be ingested by SIEM/SOAR platforms, demonstrating real-world SOC workflows.
 
-Objectives
+Objectives :
 
-Reduce manual phishing investigation effort
+* Reduce manual phishing investigation effort
 
-Standardize alert triage and decision-making
+* Standardize alert triage and decision-making
 
-Simulate SOAR-style automated response
+* Simulate SOAR-style automated response
 
-Demonstrate SOC → Security Automation skills
+* Demonstrate SOC → Security Automation skills
