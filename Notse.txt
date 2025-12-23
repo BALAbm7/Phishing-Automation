@@ -7,3 +7,13 @@ Plain text email input (.txt)
 Real Outlook email files (.msg)
 
 It produces JSON reports that can be ingested by SIEM/SOAR platforms, demonstrating real-world SOC workflows.
+
+Objectives
+
+Reduce manual phishing investigation effort
+
+Standardize alert triage and decision-making
+
+Simulate SOAR-style automated response
+
+Demonstrate SOC → Security Automation skills
