@@ -1,0 +1,9 @@
+This project is a Python-based SOC automation framework designed to analyze phishing email alerts end-to-end. It simulates how a Security Operations Center (SOC) investigates phishing incidents by automatically extracting indicators, enriching them with threat intelligence, analyzing email authentication headers, calculating risk, and generating case-based incident reports.
+
+The framework supports both:
+
+Plain text email input (.txt)
+
+Real Outlook email files (.msg)
+
+It produces JSON reports that can be ingested by SIEM/SOAR platforms, demonstrating real-world SOC workflows.
